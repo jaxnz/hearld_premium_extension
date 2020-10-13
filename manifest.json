@@ -1,7 +1,7 @@
 {
     "name": "NZ Hearld Premium Article Viewer",
     "description": "Allows you to automatically view NZ Hearld premium articles without subscribing",
-    "version": "1.0",
+    "version": "1.1",
     "manifest_version": 2,
     "icons": {
         "16": "./16.png",
